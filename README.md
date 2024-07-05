@@ -28,5 +28,5 @@ A simple website where payment gateway is integrated.
 
 Website link- 
 
-Github repository link-  
+Github repository link- https://github.com/SathishVemala/Payment_Gateway_Integration
 
