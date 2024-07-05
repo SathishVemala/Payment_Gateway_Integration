@@ -1,6 +1,6 @@
 # Payment-Gateway-Integration
-# GRIP June23
-## This is the #task-3 of Web & Mobile Developement task
+# GRIP June24
+## This is the #task of Web & Mobile Developement task
 
 
 ## Task key Features
