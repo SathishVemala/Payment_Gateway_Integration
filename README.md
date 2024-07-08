@@ -1,5 +1,5 @@
 # Payment-Gateway-Integration
-# GRIP July24
+# GRIPJULY24
 ## This is the #task - 3 of Web & Mobile Developement task
 
 
